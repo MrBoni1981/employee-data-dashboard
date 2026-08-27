@@ -177,7 +177,8 @@ st.divider()
 # ==============================================================
 
 st.subheader(
-    "Promedio de horas mensuales trabajadas por género"
+    #"Promedio de horas mensuales trabajadas por género"
+    "Promedio de horas trabajadas por género"
 )
 
 horas_por_genero = (
