@@ -24,6 +24,9 @@ ruta_datos = os.path.join(
 
 df = pd.read_csv(ruta_datos)
 
+# Normalizar espacios en la columna de género
+df["gender"] = df["gender"].str.strip()
+
 # ==============================================================
 # LOGOTIPO
 # ==============================================================
@@ -229,17 +232,16 @@ horas_vs_desempeno = (
     .groupby("performance_score")["average_work_hours"]
     .mean()
     .round(2)
-    #.reset_index()
+    .reset_index()
 )
 
-st.write("Datos utilizados en la gráfica:", horas_vs_desempeno)
+#st.write("Datos utilizados en la gráfica:", horas_vs_desempeno)
 
 st.line_chart(
     #horas_vs_desempeno.set_index("performance_score")
-    horas_vs_desempeno
-    #,
-    #x="performance_score",
-    #y="average_work_hours"
+    horas_vs_desempeno,
+    x="performance_score",
+    y="average_work_hours"
 )
 
 st.divider()
