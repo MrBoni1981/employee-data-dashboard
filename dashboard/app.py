@@ -232,6 +232,8 @@ horas_vs_desempeno = (
     #.reset_index()
 )
 
+st.write("Datos utilizados en la gráfica:", horas_vs_desempeno)
+
 st.line_chart(
     #horas_vs_desempeno.set_index("performance_score")
     horas_vs_desempeno
