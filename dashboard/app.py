@@ -181,7 +181,7 @@ horas_por_genero = (
     df_filtrado
     .groupby("gender")["average_work_hours"]
     .mean()
-    .round(2)
+    #round(2)
 )
 
 st.bar_chart(
@@ -229,11 +229,14 @@ horas_vs_desempeno = (
     .groupby("performance_score")["average_work_hours"]
     .mean()
     .round(2)
-    .reset_index()
+    #.reset_index()
 )
 
 st.line_chart(
-    horas_vs_desempeno.set_index("performance_score")
+    #horas_vs_desempeno.set_index("performance_score")
+    horas_vs_desempeno,
+    x="performance_score",
+    y="average_work_hours"
 )
 
 st.divider()
