@@ -234,9 +234,10 @@ horas_vs_desempeno = (
 
 st.line_chart(
     #horas_vs_desempeno.set_index("performance_score")
-    horas_vs_desempeno,
-    x="performance_score",
-    y="average_work_hours"
+    horas_vs_desempeno
+    #,
+    #x="performance_score",
+    #y="average_work_hours"
 )
 
 st.divider()
