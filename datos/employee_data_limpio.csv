@@ -1,0 +1,312 @@
+name_employee,birth_date,age,gender,marital_status,hiring_date,position,salary,performance_score,last_performance_date,average_work_hours,satisfaction_level,absences
+"Candie, Calvin",08/09/83,38,M ,Single,28/01/16,Production Manager,72640,4,22/02/19,4169,5.0,14
+"Anderson, Linda  ",22/05/77,44,F,Single,01/09/12,Production Technician I,57568,4,01/07/19,4844,5.0,15
+"Billis, Helen",09/01/89,32,F,Married,07/07/14,Production Technician I,62910,4,27/02/19,4031,5.0,19
+"Lynch, Lindsay",14/02/73,48,F,Single,11/07/11,Production Technician I,47434,4,02/02/15,4844,5.0,17
+"Patronick, Lucas",20/02/79,42,M ,Single,11/07/11,Software Engineer,108987,4,16/08/15,4844,5.0,13
+"Driver, Elle",11/08/88,33,F,Single,01/10/11,Area Sales Manager,74241,4,27/01/19,4007,4.77,14
+"Harrison, Kara",05/02/74,47,F,Married,05/12/14,Production Technician I,62065,4,15/02/19,4886,4.76,5
+"Lindsay, Leonara ",10/05/88,33,F,Single,21/01/11,IT Support,51777,4,25/01/19,4070,4.64,14
+"Jeannite, Tayana",11/06/86,35,F,Divorced,07/05/11,Production Technician II,60724,4,25/02/19,4821,4.6,11
+"Zamora, Jennifer",30/08/79,42,F,Single,04/10/10,CIO,220450,4,21/02/19,4067,4.6,16
+"Rivera, Haley  ",01/12/73,48,F,Married,28/01/11,Production Technician I,46738,4,02/11/19,4171,4.36,16
+"Barbossa, Hector",07/04/88,33,M ,Divorced,11/10/14,Data Analyst,92328,4,25/02/19,4230,4.28,9
+"Torrence, Jack",15/01/68,53,M ,Separated,01/09/06,Area Sales Manager,64397,4,01/04/19,4782,4.1,6
+"Veera, Abdellah ",31/01/87,34,M ,Divorced,13/08/12,Production Technician I,58523,4,02/01/16,4171,4.5,15
+"Foss, Jason",07/05/80,41,M ,Single,15/04/11,IT Director,178000,4,01/07/19,4460,5.0,15
+"Petrowsky, Thelma",16/09/84,37,F,Married,11/10/14,Data Analyst,93554,4,01/04/19,4886,4.6,16
+"Liebig, Ketsia",26/10/81,40,F,Married,30/09/13,Production Manager,77915,4,21/01/19,4110,4.1,11
+"Girifalco, Evelyn",05/08/80,41,F,Single,29/09/14,Production Technician I,57815,4,02/07/19,4451,3.9,3
+"Corleone, Vito",19/03/83,38,M ,Single,01/05/09,Director of Operations,170500,4,02/04/19,4030,3.7,15
+"Robinson, Elias",28/01/85,36,M ,Widowed,07/08/13,Production Technician I,63353,4,02/11/19,4730,3.6,4
+"Osturnka, Adeel",12/11/76,45,M ,Married,30/09/13,Production Technician I,47414,4,02/07/19,4478,5.0,13
+"Volk, Colleen",06/03/86,35,F,Married,26/09/11,Production Technician I,49773,4,02/01/15,4747,4.3,18
+"Beak, Kimberly  ",17/04/66,55,F,Married,21/07/16,Production Technician II,70131,4,14/01/19,4145,4.4,16
+"Szabo, Andrew",05/06/83,38,M ,Single,07/07/14,Software Engineer,92989,4,18/02/19,4140,4.5,1
+"Monterro, Luisa",24/04/70,51,F,Single,13/05/13,Production Technician II,72460,4,14/01/19,4126,4.7,1
+"Adinolfi, Wilson  K",07/10/83,38,M ,Single,07/05/11,Production Technician I,62506,4,17/01/19,4960,4.6,1
+"Smith, Joe",30/10/63,58,M ,Single,29/09/14,Production Technician II,60656,4,28/01/19,4045,4.3,4
+"Dougall, Eric",07/09/70,51,M ,Single,01/05/14,IT Manager - Support,138888,4,01/04/19,4886,4.3,4
+"Clukey, Elijian",26/08/80,41,M ,Married,07/06/16,Production Technician I,50373,4,28/02/19,4134,4.1,5
+"Squatrito, Kristen",26/03/73,48,F,Divorced,13/05/13,Production Technician I,62425,4,03/02/15,4359,4.1,16
+"Gonzalez, Cayo",29/09/69,52,M ,Divorced,07/11/11,Production Technician I,59892,4,18/02/19,4108,4.5,1
+"Peters, Lauren",17/08/86,35,F,Married,16/05/11,Production Technician II,57954,4,01/10/13,4886,4.2,12
+"Winthrop, Jordan  ",11/07/58,63,M ,Single,01/07/13,Production Technician II,70507,4,19/01/16,4045,5.0,7
+"Johnson, George",19/08/59,62,M ,Married,11/07/11,Production Technician I,46837,4,14/02/18,4445,4.7,9
+"Lunquist, Lisa",28/03/82,39,F,Single,19/08/13,Production Technician II,73330,4,02/12/19,4324,4.2,19
+"Johnston, Yen",09/08/69,52,F,Single,07/07/14,Production Technician II,63322,4,01/11/19,4128,4.3,1
+"Ngodup, Shari ",06/03/67,54,F,Separated,04/01/13,Production Technician I,52984,4,13/02/19,4810,4.0,12
+"LaRotonda, William  ",26/04/84,37,M ,Divorced,01/06/14,Accountant I,64520,3,17/01/19,4460,5.0,3
+"Singh, Nan ",19/05/88,33,F,Single,05/01/15,Administrative Assistant,51920,3,15/01/19,4330,5.0,2
+"Carter, Michelle ",15/05/63,58,F,Single,18/08/14,Area Sales Manager,71860,3,21/01/19,4664,5.0,7
+"Ozark, Travis",19/05/82,39,M ,Single,01/05/15,Area Sales Manager,68829,3,14/01/19,4229,5.0,18
+"Nguyen, Dheepa",31/03/89,32,F,Single,07/08/13,Area Sales Manager,63695,3,25/01/19,4428,5.0,2
+"Zhou, Julia",24/02/79,42,F,Single,30/03/15,Data Analyst,89292,3,02/01/19,4148,5.0,11
+"Tredinnick, Neville ",05/05/88,33,M ,Married,01/05/15,Network Engineer,75281,3,15/04/15,4420,5.0,11
+"Turpin, Jumil",31/03/69,52,M ,Married,30/03/15,Network Engineer,76029,3,14/01/19,4343,5.0,8
+"Bernstein, Sean",22/12/70,51,M ,Single,04/02/12,Production Technician I,51044,3,14/01/19,4072,5.0,13
+"Robinson, Alain  ",01/07/74,47,M ,Married,01/10/11,Production Technician I,50428,3,01/10/15,4420,5.0,11
+"Wilber, Barry",09/09/65,56,M ,Married,16/05/11,Production Technician I,55140,3,15/02/15,4324,5.0,7
+"Fidelia,  Libby",16/03/81,40,F,Married,01/09/12,Production Technician I,58530,3,29/01/19,4155,5.0,19
+"Pham, Hong",03/06/88,33,M ,Married,07/05/11,Production Technician I,64724,3,20/02/12,4451,5.0,13
+"Gordon, David",21/05/79,42,M ,Married,07/02/12,Production Technician I,48285,3,14/01/19,4169,5.0,2
+"Langton, Enrico",12/09/86,35,M ,Married,07/09/12,Production Technician I,46120,3,02/04/19,4048,5.0,13
+"Maurice, Shana",22/11/77,44,F,Married,31/05/11,Production Technician I,54132,3,01/10/19,4330,5.0,8
+"Rose, Ashley  ",12/05/74,47,F,Separated,01/06/14,Production Technician I,60627,3,31/01/19,4886,5.0,8
+"Beatrice, Courtney ",27/10/70,51,F,Single,04/04/11,Production Technician I,59026,3,14/01/19,4915,5.0,12
+"Darson, Jene'ya ",11/05/78,43,F,Married,07/02/12,Production Technician I,57583,3,25/02/19,4110,5.0,1
+"Lydon, Allison",22/10/75,46,F,Married,16/02/15,Production Technician I,52057,3,23/01/19,4122,5.0,6
+"Rhoads, Thomas",22/07/82,39,M ,Divorced,16/05/11,Production Technician I,45115,3,30/03/15,4176,5.0,11
+"Gross, Paula",21/05/83,38,F,Divorced,21/02/11,Production Technician I,63813,3,06/03/13,4176,5.0,17
+"Jhaveri, Sneha  ",13/04/64,57,F,Separated,01/06/14,Production Technician I,60436,3,21/01/19,4109,5.0,9
+"Bates, Norman",18/10/81,40,M ,Single,21/02/11,Production Technician I,57834,3,04/05/17,4050,5.0,20
+"Athwal, Sam",18/02/83,38,M ,Widowed,30/09/13,Production Technician I,59365,3,25/02/19,4199,5.0,19
+"Newman, Richard ",04/08/77,44,M ,Married,05/12/14,Production Technician I,48495,3,18/02/19,4136,5.0,11
+"Eaton, Marianne",09/05/91,30,F,Married,04/04/11,Production Technician I,60070,3,04/09/17,4343,5.0,7
+"Rossetti, Bruno",18/03/87,34,M ,Single,04/04/11,Production Technician I,53180,3,07/02/18,4155,5.0,4
+"Barton, Nader",15/07/77,44,M ,Divorced,24/09/12,Production Technician I,52505,3,03/02/17,4747,5.0,1
+"Chace, Beatrice ",01/02/51,70,F,Single,29/09/14,Production Technician I,61656,3,02/12/19,4763,5.0,11
+"Medeiros, Jennifer",22/09/76,45,F,Single,30/03/15,Production Technician I,55688,3,21/01/19,4346,5.0,10
+"Anderson, Carol ",09/08/89,32,F,Divorced,07/11/11,Production Technician I,50825,3,02/01/16,4169,5.0,2
+"DeGweck,  James",31/10/77,44,M ,Married,16/05/11,Production Technician I,55722,3,04/02/16,4810,5.0,14
+"Sewkumar, Nori",03/10/75,46,F,Single,30/09/13,Production Technician I,50923,3,02/06/19,4191,5.0,14
+"Whittier, Scott",24/05/87,34,M ,Single,01/10/11,Production Technician I,58371,3,15/05/14,4030,5.0,11
+"Mancuso, Karen",12/10/86,35,F,Married,07/05/11,Production Technician II,68407,3,07/02/12,4176,5.0,16
+"Hankard, Earnest",08/10/88,33,M ,Single,11/11/13,Production Technician II,64246,3,01/08/19,4155,5.0,20
+"Hendrickson, Trina",27/08/72,49,F,Single,01/10/11,Production Technician II,68099,3,30/01/13,4021,5.0,15
+"Carthy, B'rigit",21/05/87,34,F,Single,30/03/15,Production Technician II,55315,3,02/07/19,4149,5.0,16
+"Manchester, Robyn",25/08/76,45,F,Married,05/11/16,Production Technician II,62385,3,21/01/19,4324,5.0,4
+"Oliver, Brooke ",02/11/52,69,F,Married,14/05/12,Production Technician II,71966,3,07/02/13,4492,5.0,17
+"Navathe, Kurt",25/04/70,51,M ,Single,02/10/17,Senior BI Developer,87921,3,25/02/19,4056,5.0,17
+"Foster-Baker, Amy",16/04/79,42,F,Married,01/05/09,Sr. Accountant,99351,3,02/08/19,4050,5.0,3
+"Boutwell, Bonalyn",04/04/87,34,F,Married,16/02/15,Sr. Accountant,106367,3,18/02/19,4468,5.0,4
+"Carr, Claudia  N",06/06/86,35,F,Single,30/06/16,Sr. DBA,100031,3,18/02/19,4886,5.0,7
+"Cross, Noah",09/09/65,56,M ,Single,11/10/14,Sr. Network Engineer,92329,3,01/02/19,4278,5.0,5
+"Ait Sidi, Karthikeyan   ",05/05/75,46,M ,Married,30/03/15,Sr. DBA,104437,3,24/02/16,4148,4.96,17
+"Carabbio, Judith",04/05/87,34,F,Single,11/11/13,Software Engineer,93396,3,30/01/19,4132,4.96,3
+"Roper, Katie",21/11/72,49,F,Single,01/07/17,Data Architect,150290,3,02/06/19,4056,4.94,17
+"Leach, Dallas",17/01/79,42,F,Single,26/09/11,Production Technician I,63676,3,07/02/17,4810,4.88,17
+"Alagbe,Trina",27/09/88,33,F,Married,01/07/08,Production Technician I,64991,3,01/03/19,4886,4.84,15
+"King, Janet",21/09/54,67,F,Married,07/02/12,President & CEO,250000,3,17/01/19,4902,4.83,10
+"Spirea, Kelley",30/09/75,46,F,Married,10/02/12,Production Manager,65714,3,14/02/19,4451,4.83,15
+"Shields, Seffi",24/08/85,36,F,Married,19/08/13,Production Technician I,52087,3,15/02/19,4149,4.81,15
+"Landa, Hans",07/01/72,49,M ,Married,01/10/11,Production Manager,82758,3,15/02/15,4890,4.78,9
+"Fitzpatrick, Michael  J",10/01/81,40,M ,Single,16/05/11,Production Technician II,72609,3,04/05/13,4143,4.76,20
+"Cornett, Lisa ",31/03/77,44,F,Married,01/05/15,Production Technician I,63381,3,14/02/19,4189,4.73,6
+"Sloan, Constance",25/11/87,34,F,Single,26/01/09,Production Technician II,63878,3,04/02/15,4851,4.68,20
+"Lundy, Susan",26/12/76,45,F,Widowed,07/08/13,Production Technician II,67237,3,06/10/16,4122,4.65,15
+"Harrington, Christie ",18/08/52,69,F,Single,01/09/12,Production Technician I,52177,3,05/02/15,4324,4.64,8
+"Gray, Elijiah  ",07/11/81,40,M ,Divorced,06/02/15,Production Manager,62957,3,01/04/19,4752,4.63,2
+"Daneault, Lynn",19/04/90,31,F,Single,05/05/14,Sales Manager,65729,3,24/01/19,4473,4.62,8
+"Demita, Carla",25/02/51,70,F,Separated,04/04/11,Production Technician II,58275,3,05/06/15,4343,4.62,1
+"Gonzalez, Maria",16/04/81,40,F,Separated,01/05/15,IT Support,61242,3,28/01/19,4472,4.61,11
+"True, Edward",14/06/83,38,M ,Single,18/02/13,Software Engineer,100416,3,02/12/17,4451,4.6,9
+"Leruth, Giovanni",27/12/88,33,M ,Separated,30/04/12,Area Sales Manager,70468,3,29/01/19,4111,4.53,16
+"Nowlan, Kristie",23/11/85,36,F,Single,11/10/14,Production Technician II,66738,3,16/01/19,4040,4.53,5
+"Dunn, Amy  ",28/11/73,48,F,Single,18/09/14,Production Manager,75188,3,15/01/19,4731,4.52,4
+"Langford, Lindsey",25/07/79,42,F,Divorced,01/07/13,Production Technician II,66074,3,20/02/14,4090,4.52,20
+"Burke, Joelle",03/02/80,41,F,Single,03/05/12,Production Technician II,63763,3,21/02/19,4148,4.51,3
+"Champaigne, Brian",02/09/72,49,M ,Married,09/06/16,BI Director,110929,3,15/01/19,4045,4.5,8
+"Guilianno, Mike",02/09/69,52,M ,Single,03/07/12,Area Sales Manager,71707,3,02/01/13,4129,4.5,20
+"Martin, Sandra",11/07/87,34,F,Single,11/11/13,Software Engineer,105688,3,14/01/19,4135,4.5,14
+"Garcia, Raul",15/09/85,36,M ,Single,30/03/15,Production Technician I,52249,3,18/02/19,4905,4.5,5
+"Horton, Jayne",21/02/84,37,F,Single,30/03/15,Database Administrator,97999,3,01/03/19,4493,4.48,4
+"Lajiri,  Jyoti",23/04/86,35,M ,Married,11/10/14,Sr. Network Engineer,93206,3,01/07/19,4169,4.46,7
+"Bachiochi, Linda",02/11/70,51,F,Single,07/06/09,Production Technician I,47837,3,25/01/19,4902,4.46,4
+"Carey, Michael  ",02/02/83,38,M ,Single,31/03/14,Production Technician I,52846,3,02/01/19,4701,4.43,14
+"Miller, Brannon",08/10/81,40,M ,Single,16/08/12,Production Manager,83667,3,14/01/19,4045,4.37,2
+"Sullivan, Timothy",10/07/82,39,M ,Married,01/05/15,Production Technician I,63025,3,24/01/19,4747,4.36,10
+"Voldemort, Lord",08/07/86,35,M ,Married,16/02/15,Database Administrator,113999,3,15/02/17,4960,4.33,9
+"Soto, Julia ",03/12/73,48,F,Married,06/10/11,IT Support,66593,3,02/08/19,4360,4.3,19
+"Moumanil, Maliki ",12/01/74,47,M ,Separated,13/05/13,Production Technician II,74417,3,28/01/19,4460,4.29,11
+"Onque, Jasmine",05/11/90,31,F,Single,30/09/13,Area Sales Manager,63051,3,25/01/19,4174,4.28,1
+"Gerke, Melisa",15/05/70,51,F,Divorced,11/07/11,Production Technician I,51505,3,29/04/16,4330,4.24,2
+"Tippett, Jeanette",06/05/67,54,F,Divorced,18/02/13,Production Technician I,56339,3,14/01/19,4093,4.21,4
+"Potts, Xana",29/08/88,33,F,Married,01/09/12,Area Sales Manager,61844,3,02/01/19,4220,4.2,9
+"Handschiegl, Joanne",23/03/77,44,F,Married,28/01/11,Production Technician I,54828,3,22/02/19,4127,4.2,13
+"Saada, Adell",24/07/86,35,F,Married,11/05/12,Software Engineer,86214,3,13/02/19,4132,4.2,2
+"Warfield, Sarah",05/02/78,43,F,Widowed,30/03/15,Sr. Network Engineer,107226,3,02/05/19,4453,4.2,7
+"Meads, Elizabeth",30/05/68,53,F,Single,04/02/12,Production Technician I,62659,3,02/05/16,4760,4.18,17
+"Heitzman, Anthony",01/04/84,37,M ,Single,13/08/12,Production Technician I,46998,3,02/11/19,4149,4.17,1
+"Peterson, Ebonee  ",05/09/77,44,F,Married,25/01/10,Production Manager,74669,3,03/05/15,4030,4.16,6
+"Quinn, Sean",11/06/84,37,M ,Married,21/02/11,Software Engineer,83363,3,19/04/14,4045,4.15,4
+"Crimmings,   Jean",04/10/87,34,F,Single,07/06/16,Production Technician I,56149,3,28/01/19,4821,4.12,15
+"Dolan, Linda",18/07/88,33,F,Married,01/05/15,IT Support,70621,3,25/02/19,4119,4.11,16
+"LeBlanc, Brandon  R",06/10/84,37,M ,Married,01/05/16,Shared Services Manager,93046,3,28/01/19,4460,4.1,20
+"Woodson, Jason",05/11/85,36,M ,Single,07/07/14,Production Technician II,65893,3,28/02/19,4810,4.07,13
+"Fancett, Nicole",27/09/87,34,F,Single,17/02/14,Production Technician II,65902,3,01/07/19,4324,4.0,7
+"Linden, Mathew",19/03/79,42,M ,Married,07/08/13,Production Technician II,63450,3,18/02/19,4770,4.0,7
+"Jung, Judy  ",17/04/86,35,F,Married,01/10/11,Production Technician I,61154,3,02/03/16,4446,4.0,4
+"Ivey, Rose ",28/01/91,30,F,Single,19/08/13,Production Technician I,51908,3,14/01/19,4775,3.99,14
+"Ren, Kylo",10/12/54,67,M ,Married,05/12/14,Area Sales Manager,61809,3,28/01/19,4706,3.98,4
+"Theamstern, Sophia",05/09/65,56,F,Single,07/05/11,Production Technician I,48413,3,03/02/16,4066,3.98,1
+"Gill, Whitney  ",07/10/71,50,F,Widowed,07/07/14,Area Sales Manager,59370,3,15/01/14,4050,3.97,7
+"Davis, Daniel",14/09/79,42,M ,Single,11/07/11,Production Technician II,56294,3,27/02/19,4458,3.96,6
+"Vega, Vincent",10/10/68,53,M ,Divorced,08/01/11,Production Manager,88976,3,27/02/19,4169,3.93,19
+"Mckenna, Sandy",01/07/87,34,F,Married,01/07/13,Production Technician I,62810,3,30/01/19,4184,3.93,20
+"Tejeda, Lenora ",24/05/53,68,F,Married,16/05/11,Production Technician II,72202,3,18/04/17,4129,3.93,3
+"Steans, Tyrone  ",09/01/86,35,M ,Single,29/09/14,Accountant I,63003,3,18/01/19,4703,3.9,9
+"Panjwani, Nina",05/01/79,42,F,Married,02/07/11,Production Technician I,63515,3,03/04/13,4351,3.89,7
+"Roehrich, Bianca",27/05/73,48,F,Single,01/05/15,Principal Data Architect,120000,3,13/02/18,4703,3.88,12
+"Cady, Max ",22/11/66,55,M ,Single,15/08/11,Software Engineering Manager,77692,3,21/01/19,4184,3.84,4
+"Morway, Tanya",04/04/79,42,F,Married,16/02/15,Network Engineer,52599,3,02/11/19,4048,3.81,6
+"Rarrick, Quinn",31/12/84,37,M ,Divorced,26/09/11,Production Technician I,61729,3,02/04/18,4478,3.8,19
+"Smith, Leigh Ann",14/06/87,34,F,Married,26/09/11,Administrative Assistant,55000,3,15/08/13,4844,3.8,17
+"Chang, Donovan  E",24/08/83,38,M ,Single,07/08/13,Production Technician I,60380,3,14/01/19,4845,3.8,4
+"Del Bosque, Keyla",07/05/79,42,F,Single,01/09/12,Software Engineer,101199,3,25/01/19,4176,3.79,8
+"Johnson, Noelle ",11/07/86,35,F,Married,01/05/15,Database Administrator,105700,3,02/11/19,4301,3.75,2
+"Smith, Sade",02/02/65,56,F,Single,11/11/13,Production Technician I,58939,3,24/01/19,4130,3.73,16
+"Sullivan, Kissy ",28/03/78,43,F,Married,01/08/09,Production Manager,63682,3,24/01/19,4776,3.73,12
+"Gentry, Mildred",10/01/90,31,F,Married,30/03/15,Production Technician I,51337,3,16/01/19,4145,3.73,19
+"Huynh, Ming",22/09/76,45,F,Divorced,21/02/11,Production Technician II,68182,3,02/01/13,4742,3.72,18
+"Terry, Sharlene ",05/07/65,56,F,Single,29/09/14,Area Sales Manager,58370,3,28/01/19,4756,3.69,18
+"Roby, Lori ",10/11/81,40,F,Married,16/02/15,Data Analyst,89883,3,14/02/19,4886,3.69,15
+"Foreman, Tanya",11/08/83,38,F,Married,04/04/11,Production Technician II,55965,3,01/07/12,4170,3.66,6
+"Pitt, Brad ",23/11/81,40,M ,Single,11/05/07,Production Technician I,47001,3,25/02/19,4451,3.66,15
+"Kreuger, Freddy",24/02/69,52,M ,Single,03/07/11,Area Sales Manager,71339,3,17/01/19,4171,3.65,20
+"Kinsella, Kathleen  ",12/08/73,48,F,Married,26/09/11,Production Technician I,54005,3,03/01/15,4170,3.6,16
+"Hitchcock, Alfred",14/09/88,33,M ,Married,18/08/14,Area Sales Manager,70545,3,30/01/19,4062,3.6,9
+"Cierpiszewski, Caroline  ",31/05/88,33,F,Single,10/03/11,Production Technician I,64816,3,30/01/19,4044,3.58,3
+"Sander, Kamrin",07/10/88,33,F,Married,29/09/14,Production Technician I,56147,3,18/02/19,4154,3.51,2
+"Kirill, Alexandra  ",10/08/70,51,F,Married,26/09/11,Production Technician I,45433,3,30/01/13,4127,3.49,6
+"Perry, Shakira",20/07/86,35,F,Single,16/05/11,Production Technician I,45998,3,13/05/14,4176,3.45,5
+"Wang, Charlie",07/08/81,40,M ,Single,15/02/17,Senior BI Developer,84903,3,01/04/19,4887,3.42,17
+"Tannen, Biff",24/10/87,34,M ,Married,20/04/17,BI Developer,90100,3,01/02/19,4134,3.4,14
+"Wolk, Hang  T",20/04/85,36,F,Single,29/09/14,Production Technician II,60446,3,21/02/19,4302,3.4,14
+"Bozzi, Charles",03/10/70,51,M ,Single,30/09/13,Production Manager,74312,3,20/02/14,4901,3.39,14
+"Kretschmer, John",02/02/80,41,M ,Married,01/10/11,Production Technician I,63973,3,21/01/19,4801,3.38,17
+"Brill, Donna",24/08/90,31,F,Married,04/02/12,Production Technician I,53492,3,03/04/13,4701,3.35,6
+"Simard, Kramer",02/08/70,51,M ,Married,01/05/15,Data Analyst,87826,3,14/01/19,4110,3.32,16
+"Shepard, Anita ",14/04/81,40,F,Married,30/09/14,Network Engineer,50750,3,01/07/19,4773,3.31,7
+"Soze, Keyser",02/09/83,38,M ,Married,30/06/16,Sr. Network Engineer,87565,3,14/01/19,4545,3.27,13
+"Burkett, Benjamin ",19/08/77,44,M ,Married,04/04/11,Production Technician II,62162,3,14/01/19,4890,3.25,15
+"Howard, Estelle",16/09/85,36,F,Married,16/02/15,Administrative Assistant,49920,3,15/04/15,4170,3.24,6
+"Von Massenbach, Anna",04/06/85,36,F,Single,07/05/15,Production Technician I,62068,3,29/01/19,4124,3.21,7
+"Buccheri, Joseph  ",28/07/83,38,M ,Single,29/09/14,Production Technician II,65288,3,02/01/19,4013,3.19,9
+"Ndzi, Horia",28/03/83,38,M ,Married,04/01/13,Production Technician I,46664,3,03/06/16,4421,3.18,10
+"Linares, Marilyn ",26/03/81,40,F,Married,07/05/11,Production Technician I,52624,3,03/02/18,4886,3.18,16
+"Power, Morissa",15/10/84,37,F,Divorced,16/05/11,Production Technician I,46799,3,04/02/18,4742,3.17,14
+"Bunbury, Jessica",06/01/64,57,F,Married,15/08/11,Area Sales Manager,74326,3,02/10/13,4851,3.14,19
+"Ferguson, Susan",14/04/55,66,F,Married,11/07/11,Production Technician I,57748,3,02/04/16,4176,3.13,16
+"Walker, Roger",02/10/76,45,M ,Single,18/08/14,Production Technician II,66541,3,02/12/19,4459,3.11,4
+"MacLennan, Samuel",11/09/72,49,M ,Widowed,24/09/12,Production Technician I,52788,3,04/01/17,4938,3.08,18
+"Keatts, Kramer ",19/01/76,45,M ,Single,30/09/13,Production Technician I,50482,3,23/01/19,4887,3.07,10
+"Costello, Frank",26/08/86,35,M ,Married,30/03/15,Data Analyst,83552,3,22/01/19,4810,3.04,2
+"Andreola, Colby",24/05/79,42,F,Single,11/10/14,Software Engineer,95660,3,01/02/19,4110,3.04,19
+"Homberger, Adrienne  J",16/02/84,37,F,Married,15/08/11,Production Technician II,63478,3,03/05/12,4445,3.03,16
+"Akinkuolie, Sarah",19/09/88,33,F,Married,07/05/11,Production Technician II,64955,3,15/05/12,4810,3.02,3
+"DeVito, Tommy",09/04/83,38,M ,Single,15/02/17,BI Developer,96820,3,23/01/19,4045,3.01,15
+"Roup,Simon",04/05/73,48,M ,Single,20/01/13,IT Manager - DB,140920,3,18/02/19,4481,3.6,13
+"Booth, Frank",30/07/64,57,M ,Single,17/02/14,Enterprise Architect,103613,3,01/10/16,4033,3.5,2
+"Chigurh, Anton",06/11/70,51,M ,Single,14/05/12,Area Sales Manager,66808,3,19/01/19,4207,3.0,17
+"Hunts, Julissa",03/11/84,37,F,Single,06/06/16,Production Technician II,69340,3,18/01/19,4021,3.0,4
+"McKinzie, Jac",07/01/84,37,M ,Married,07/06/16,Area Sales Manager,63291,3,29/01/19,4789,3.4,7
+"Bugali, Josephine ",30/10/69,52,F,Separated,11/11/13,Production Technician I,64375,3,21/01/19,4043,3.5,17
+"Wilkes, Annie",30/07/83,38,F,Divorced,01/10/11,Production Technician I,58062,3,02/06/11,4876,3.6,9
+"Valentin,Jackie",23/05/91,30,F,Married,07/05/11,Area Sales Manager,57859,3,17/01/19,5006,2.81,16
+"Nguyen, Lei-Ming",07/07/84,37,F,Single,07/08/13,Production Technician I,62061,3,01/02/19,4132,3.6,4
+"Dobrin, Denisa  S",10/07/86,35,F,Single,04/02/12,Production Technician I,46335,3,19/02/19,4125,3.4,15
+"Knapp, Bradley  J",11/10/77,44,M ,Single,17/02/14,Production Technician I,46654,3,02/06/19,4721,3.1,3
+"Sutwell, Barbara",15/08/68,53,F,Single,14/05/12,Production Technician I,59238,3,31/01/19,4718,3.4,13
+"Chan, Lin",02/12/79,42,F,Single,05/12/14,Production Technician I,54237,3,19/02/19,4170,3.3,11
+"Dunne, Amy",23/09/73,48,F,Married,26/04/10,Production Technician I,62514,3,21/01/19,4749,2.9,6
+"Daniele, Ann  ",18/01/52,69,F,Married,11/10/14,Sr. Network Engineer,85028,3,02/12/19,4033,3.1,19
+"Monkfish, Erasumus",17/08/92,29,M ,Married,11/07/11,Production Technician II,58207,3,01/08/19,4450,3.7,14
+"Hutter, Rosalie",05/07/92,29,F,Separated,06/05/15,Production Technician II,64995,3,14/02/19,4351,4.5,6
+"Ndzi, Colombui",05/02/89,32,M ,Single,26/09/11,Production Technician I,50470,3,03/02/13,4110,4.3,19
+"Myers, Michael",18/04/80,41,M ,Single,07/08/13,Production Technician I,57575,3,22/01/19,4550,4.1,13
+"Petingill, Shana  ",03/10/79,42,F,Married,04/02/12,Production Technician II,74226,3,14/01/19,4050,4.3,14
+"Gosciminski, Phylicia  ",12/08/83,38,F,Separated,30/09/13,Production Technician II,66149,3,21/02/19,4824,4.4,1
+"Mahoney, Lauren  ",07/07/86,35,F,Single,01/06/14,Production Technician I,45395,3,26/02/19,4189,4.6,14
+"Clayton, Rick",09/05/85,36,M ,Single,09/05/12,IT Support,68678,3,27/02/19,4170,4.7,2
+"Tavares, Desiree  ",04/03/75,46,F,Married,27/04/09,Production Technician I,60754,3,15/02/12,4801,4.5,11
+"Ruiz, Ricardo",01/04/64,57,M ,Divorced,01/09/12,IT Manager - DB,148999,3,01/04/15,4915,4.3,8
+"Moran, Patrick",12/03/76,45,M ,Single,01/09/12,Production Technician II,72106,3,31/01/19,4127,4.1,12
+"Robertson, Peter",07/03/72,49,M ,Married,07/05/11,Production Technician II,55578,3,01/06/12,4138,4.2,13
+"Punjabhi, Louis  ",19/06/61,60,M ,Single,01/06/14,Production Technician I,59472,3,01/07/19,4109,4.8,14
+"Biden, Lowan  M",27/12/58,63,F,Divorced,19/08/13,Production Technician I,64919,3,01/10/19,4027,4.2,2
+"Jackson, Maryellen",09/11/72,49,F,Single,11/05/12,Production Technician I,61242,3,17/01/19,4081,4.1,7
+"Goeth, Amon",24/11/89,32,M ,Married,30/03/15,IT Support,74679,3,01/10/19,4135,4.3,20
+"Salter, Jason",17/12/87,34,M ,Divorced,01/05/15,Data Analyst ,88527,3,20/04/15,4452,4.2,2
+"Roberson, May",09/05/81,40,F,Divorced,26/09/11,Production Technician II,64971,3,22/01/11,4902,4.5,10
+"Khemmich, Bartholemew",27/11/79,42,M ,Single,19/08/13,Area Sales Manager,65310,3,22/01/19,4820,4.3,13
+"Le, Binh",14/06/87,34,F,Single,10/02/16,Senior BI Developer,81584,3,01/08/19,4886,4.1,2
+"Sahoo, Adil",26/04/86,35,M ,Married,30/08/10,Production Technician II,57975,3,01/10/19,4062,4.1,13
+"Gruber, Hans",30/06/89,32,M ,Married,20/04/17,BI Developer,99020,3,28/01/19,4134,4.2,8
+"England, Rex",25/08/78,43,M ,Married,31/03/14,Production Technician I,54285,3,01/11/19,4045,4.2,3
+"Jacobi, Hannah  ",22/03/66,55,F,Divorced,30/09/13,Production Technician I,45069,3,22/02/19,4778,4.3,7
+"Good, Susan",25/05/86,35,F,Married,05/12/14,Production Technician II,66825,3,02/07/19,4886,4.6,20
+"Brown, Mia",24/11/87,34,F,Married,27/01/08,Accountant I,63000,3,15/01/19,4450,4.5,14
+"Rachael, Maggie",05/12/80,41,F,Married,10/02/16,BI Developer,95920,3,02/06/19,4110,4.4,10
+"Chivukula, Enola",27/08/83,38,F,Single,27/06/11,Production Technician I,64786,3,03/10/15,4775,4.3,3
+"Strong, Caitrin",05/12/89,32,F,Married,27/09/10,Area Sales Manager,60120,3,31/01/19,5102,4.1,18
+"Barbara, Thomas",21/02/74,47,M ,Married,04/02/12,Production Technician I,47211,3,05/06/16,4062,4.2,15
+"Gold, Shenice  ",18/06/92,29,F,Single,11/11/13,Production Technician I,53018,3,18/02/19,4451,4.3,7
+"Kampew, Donysha",11/11/89,32,F,Single,11/07/11,Sales Manager,68999,3,30/03/13,4444,4.5,2
+"Becker, Renee",04/04/86,35,F,Single,07/07/14,Database Administrator,110000,3,15/01/15,4026,4.5,8
+"Goble, Taisha",23/10/71,50,F,Single,16/02/15,Database Administrator,114800,3,20/01/15,4127,4.6,10
+"Engdahl, Jean",31/05/74,47,M ,Single,11/10/14,Production Technician I,48888,3,13/02/19,4026,4.7,8
+"Hudson, Jane",06/10/86,35,F,Single,20/02/12,Production Technician I,55425,3,01/07/19,4176,4.8,4
+"Latif, Mohammed",05/09/84,37,M ,Married,04/02/12,Production Technician II,61962,3,20/02/13,4126,4.9,20
+"Bacong, Alejandro ",01/07/88,33,M ,Divorced,01/05/15,IT Support,50178,3,18/02/19,4886,5.0,16
+"Lecter, Hannibal",09/02/82,39,M ,Married,14/05/12,Production Technician I,64738,3,22/02/19,4776,4.1,10
+"Baczenski, Rachael  ",01/12/74,47,F,Married,01/10/11,Production Technician I,54670,3,30/01/16,4902,4.2,12
+"Villanueva, Noah",07/11/89,32,M ,Single,03/05/12,Area Sales Manager,55875,3,18/01/19,4063,4.5,11
+"Motlagh,  Dawn",07/07/84,37,F,Divorced,04/01/13,Production Technician I,63430,3,17/01/19,4453,4.4,18
+"Givens, Myriam",22/09/89,32,F,Single,16/02/15,Area Sales Manager,61555,3,25/01/19,4204,4.5,20
+"Goyal, Roxana",10/09/74,47,F,Married,19/08/13,Production Technician I,49256,3,15/02/19,4864,4.1,3
+"Gaul, Barbara",12/02/83,38,F,Single,16/05/11,Production Technician I,53171,3,26/02/19,4121,4.2,12
+"Fraval, Maruk ",28/08/63,58,M ,Single,09/06/11,Area Sales Manager,67251,3,27/01/19,4050,4.3,7
+"Pearson, Randall",09/05/84,37,M ,Married,12/01/14,Data Analyst,93093,3,16/01/16,4747,4.7,19
+"Sadki, Nore  ",21/12/74,47,M ,Single,01/05/09,Production Technician I,46428,3,02/05/18,4148,4.6,7
+"Cockel, James",09/08/77,44,M ,Single,07/08/13,Production Technician I,63108,3,14/01/19,4452,4.4,3
+"Purinton, Janine",22/09/70,51,F,Divorced,24/09/12,Production Technician I,46430,3,04/02/13,4474,4.5,16
+"Faller, Megan ",22/09/78,43,F,Married,07/07/14,Production Technician II,71776,3,22/02/19,4824,4.4,17
+"Williams, Jacquelyn  ",10/02/69,52,F,Single,01/09/12,Production Technician I,59728,3,06/02/14,4109,4.3,16
+"Barone, Francesco  A",20/07/83,38,M ,Single,20/02/12,Production Technician I,58709,3,14/02/19,4810,4.6,7
+"Stoica, Rick",14/03/85,36,M ,Married,17/02/14,Production Technician I,61355,3,01/11/19,4301,4.7,4
+"Bondwell, Betsy",16/01/67,54,F,Single,01/10/11,Production Technician II,57815,3,03/04/14,4210,4.8,5
+"Thibaud, Kenneth",16/09/75,46,M ,Widowed,25/06/07,Production Technician II,67176,3,14/07/10,4472,4.1,15
+"Close, Phil",25/11/78,43,M ,Married,30/08/10,Production Technician II,59369,3,05/04/11,4169,4.2,6
+"Trzeciak, Cybil",15/03/85,36,F,Single,01/10/11,Production Technician II,74813,3,01/05/14,4778,4.4,5
+"Zima, Colleen",17/08/78,43,F,Widowed,29/09/14,Production Technician I,45046,3,30/01/19,4730,4.5,2
+"Houlihan, Debra",17/03/66,55,F,Married,05/05/14,Director of Sales,180000,3,21/01/19,4908,4.5,19
+"Galia, Lisa",07/06/68,53,F,Single,05/01/10,IT Support,65707,3,02/01/19,4040,4.7,1
+"Wallace, Courtney  E",14/11/55,66,F,Married,26/09/11,Production Manager,80512,3,01/02/12,4478,4.5,5
+"Cloninger, Jennifer",31/08/81,40,F,Married,16/05/11,Production Technician II,64066,3,05/03/12,4752,4.2,9
+"Dickinson, Geoff ",15/11/82,39,M ,Single,05/12/14,Production Technician I,51259,3,19/02/19,4180,4.3,1
+"Becker, Scott",04/06/79,42,M ,Single,07/08/13,Production Technician I,53250,3,01/11/19,4452,4.2,13
+"Stanford,Barbara  M",25/08/82,39,F,Divorced,01/10/11,Production Technician I,47961,3,02/07/19,4050,4.1,9
+"Mangal, Debbie",11/07/74,47,F,Married,11/11/13,Production Technician I,61349,3,22/01/19,4451,4.1,11
+"Estremera, Miguel",09/02/83,38,M ,Single,04/02/12,Production Technician I,60340,2,04/12/18,4129,5.0,16
+"Owad, Clinton",24/11/79,42,M ,Single,17/02/14,Production Technician I,53060,2,02/04/19,4760,4.25,6
+"Corleone, Michael",17/12/75,46,M ,Divorced,20/07/10,Production Manager,68051,2,14/01/19,4803,4.13,3
+"Gilles, Alex",08/09/74,47,M ,Married,04/02/12,Production Technician I,54933,2,20/01/15,4062,3.97,15
+"DiNocco, Lily ",12/02/78,43,F,Married,01/07/13,Production Technician I,61584,2,18/01/19,4351,3.88,6
+"Robinson, Cherly",01/07/85,36,F,Married,01/10/11,Production Technician I,61422,2,04/05/16,4460,3.6,16
+"Smith, Martin",17/03/88,33,M ,Single,01/10/11,Production Technician I,53564,2,04/06/17,4458,3.54,15
+"Trang, Mei",16/05/83,38,F,Single,17/02/14,Production Technician I,63025,2,02/11/19,4021,2.44,18
+"Monroe, Peter",10/05/86,35,M ,Married,15/02/12,IT Manager - Infra,157000,2,22/02/19,4134,2.39,13
+"Immediato, Walter",15/11/76,45,M ,Married,21/02/11,Production Manager,83082,2,04/12/12,4128,2.34,4
+"Exantus, Susan",15/05/87,34,F,Married,05/02/11,Software Engineer,99280,2,08/10/12,4749,2.1,19
+"Smith, John",16/08/84,37,M ,Divorced,18/05/14,Sales Manager,72992,2,16/01/19,4886,2.4,16
+"Cole, Spencer",08/12/79,42,M ,Single,07/11/11,Production Technician I,59144,2,05/01/16,4880,2.0,16
+"Wallace, Theresa",08/02/80,41,F,Single,13/08/12,Production Technician I,50274,2,09/05/14,4887,2.5,13
+"Blount, Dianna",21/09/90,31,F,Single,04/04/11,Production Technician II,66441,2,27/02/19,4171,2.0,3
+"Saar-Beckles, Melinda",06/06/68,53,F,Single,07/04/16,Production Technician I,47750,2,18/02/19,4801,2.6,4
+"Evensen, April",05/06/89,32,F,Single,17/02/14,Production Technician I,59124,2,15/01/17,4458,2.3,19
+"Pelletier, Ermine",18/07/89,32,F,Married,07/05/11,Production Technician II,60270,2,02/06/15,4472,2.4,2
+"Miller, Ned",29/06/85,36,M ,Single,15/08/11,Production Technician II,55800,1,14/01/13,4472,3.0,6
+"Erilus, Angela",25/08/89,32,F,Separated,07/07/14,Production Technician II,56847,1,25/02/19,4133,3.0,5
+"Gonzalez, Juan",10/12/64,57,M ,Married,26/04/10,Production Technician II,68898,1,03/06/11,4128,3.0,10
+"Ybarra, Catherine ",05/04/82,39,F,Single,09/02/08,Production Technician I,48513,1,09/02/15,4458,3.2,4
+"Sparks, Taylor  ",20/07/68,53,F,Married,20/02/12,Production Technician I,64021,1,25/02/19,4093,2.4,20
+"O'hare, Lynn",30/09/80,41,F,Single,31/03/14,Production Technician I,52674,1,03/09/18,4152,2.33,3
+"Dietrich, Jenna  ",14/05/87,34,F,Single,20/02/12,Area Sales Manager,59231,1,29/01/19,4052,2.3,17
+"Forrest, Alex",07/07/75,46,M ,Married,29/09/14,Area Sales Manager,70187,3,28/01/19,4330,2.0,7
+"Delarge, Alex",11/02/75,46,M ,Single,29/09/14,Area Sales Manager,61568,1,30/01/19,4006,1.93,5
+"Stansfield, Norman",05/09/74,47,M ,Married,05/12/14,Area Sales Manager,58273,1,17/01/19,4139,1.81,5
+"Fernandes, Nilson  ",18/10/89,32,M ,Married,05/11/15,Production Technician I,64057,1,01/03/19,4132,1.56,15
+"Fett, Boba",18/06/87,34,M ,Single,30/03/15,Network Engineer,53366,1,02/04/19,4138,1.2,2
+"Desimone, Carl ",19/04/67,54,M ,Married,07/07/14,Production Technician I,53189,1,31/01/19,4061,1.12,9
+"Dee, Randy",15/04/88,33,M ,Married,07/09/18,Production Technician I,56991,1,31/01/19,4138,4.3,2
